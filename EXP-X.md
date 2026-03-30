@@ -50,6 +50,7 @@ title('EEG Signal');
 grid on;
 ```
 # OUTPUT GRAPH :
+![WhatsApp Image 2026-03-30 at 5 48 37 PM](https://github.com/user-attachments/assets/76850394-6252-4f25-8bef-a6a4a2432c39)
 
 # RESULT :
 The EEG signal was successfully analyzed and its waveform was visualized using MATLAB
