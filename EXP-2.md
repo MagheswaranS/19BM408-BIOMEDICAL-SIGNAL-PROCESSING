@@ -60,6 +60,7 @@ title('Magnitude Spectrum of DFT');
 grid on;
 ```
 # OUTPUT GRAPH :
+<img width="700" height="620" alt="image" src="https://github.com/user-attachments/assets/84e3872d-c79e-4435-92ce-a7b760bb3157" />
 
 # Result :
 Thus, the Discrete Fourier Transform of the given discrete-time signal was successfully computed and plotted using MATLAB.
