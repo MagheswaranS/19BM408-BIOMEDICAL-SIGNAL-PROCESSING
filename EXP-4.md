@@ -81,6 +81,7 @@ title('Magnitude Spectrum using Radix-2 DIF FFT');
 grid on;
 ```
 # OUTPUT GRAPH :
+<img width="694" height="622" alt="image" src="https://github.com/user-attachments/assets/d6f61af9-8e54-4b17-9e84-ab056d544dcc" />
 
 # RESULT :
 Thus, the Fast Fourier Transform of the given discrete-time signal was successfully computed using the Radix-2 Decimation-in-Frequency (DIF) FFT algorithm in MATLAB.
