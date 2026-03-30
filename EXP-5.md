@@ -109,6 +109,8 @@ ylabel('Phase (radians)');
 title('Phase Response of Digital Butterworth LPF');
 ```
 # OUTPUT GRAPH :
+<img width="695" height="623" alt="image" src="https://github.com/user-attachments/assets/c6f1e35c-b700-4799-a412-19b33e366dd0" />
+<img width="701" height="629" alt="image" src="https://github.com/user-attachments/assets/0e9837e9-c141-4379-b5d6-77daed0cb357" />
 
 # RESULT:
 A digital Butterworth low pass filter satisfying the given constraints was successfully designed using the bilinear transformation method and its frequency response was verified using MATLAB.
