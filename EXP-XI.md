@@ -48,6 +48,7 @@ grid on;
 ```
 
 # OUTPUT GRAPH :
+![WhatsApp Image 2026-03-30 at 5 48 49 PM](https://github.com/user-attachments/assets/d5a02215-a8c7-450c-ad42-a2ba8f2c9cd1)
 
 # RESULT :
 The EEG signal spectrum was successfully obtained using FFT and frequency components were analyzed.
