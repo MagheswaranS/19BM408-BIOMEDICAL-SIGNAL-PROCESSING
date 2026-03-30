@@ -113,6 +113,8 @@ ylabel('Phase (radians)');
 title('Phase Response of Digital Chebyshev LPF');
 ```
 # OUTPUT GRAPH :
+<img width="697" height="622" alt="image" src="https://github.com/user-attachments/assets/06637cbe-94e6-4f2c-8ca2-4d7dd003c576" />
+<img width="695" height="624" alt="image" src="https://github.com/user-attachments/assets/87e6c749-a69a-4536-9c31-9febfd52d1ca" />
 
 # RESULT:
 A digital Chebyshev low pass filter satisfying the given specifications was successfully designed using the bilinear transformation method and its frequency response was verified using MATLAB.
