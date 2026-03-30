@@ -59,6 +59,7 @@ grid on;
 ```
 
 # OUTPUT GRAPH :
+![WhatsApp Image 2026-03-30 at 5 49 17 PM](https://github.com/user-attachments/assets/7a017524-2004-497a-8255-8085ba221211)
 
 # RESULT :
 The ECG signal was analyzed and QRS complexes were successfully detected using MATLAB.
