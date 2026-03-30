@@ -106,6 +106,12 @@ grid on;
 ```
 
 # OUTPUT GRAPH:
+<img width="697" height="626" alt="image" src="https://github.com/user-attachments/assets/ab607402-77b6-45c2-81a3-b39ff671a83c" />
+<img width="694" height="625" alt="image" src="https://github.com/user-attachments/assets/1d88754d-6661-4bc4-a9fe-89b2a4fe9bad" />
+<img width="699" height="628" alt="image" src="https://github.com/user-attachments/assets/b7a09d6f-f465-443e-ae36-7c2e1e2b72fb" />
+<img width="700" height="623" alt="image" src="https://github.com/user-attachments/assets/e16e2267-ccfc-47cd-8755-f8aa1a2ceaf9" />
+<img width="701" height="622" alt="image" src="https://github.com/user-attachments/assets/b155cc49-a63f-4b36-acea-7b20a3b261a7" />
+<img width="696" height="627" alt="image" src="https://github.com/user-attachments/assets/ada65315-f168-41cb-9b50-d9e5dff8e193" />
 
 # Result :
 Thus, standard discrete-time signals were successfully generated and plotted using MATLAB.
