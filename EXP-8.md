@@ -50,6 +50,7 @@ freqz(h,1);
 title('FIR using Hamming Window');
 ```
 # OUTPUT GRAPH :
+<img width="702" height="623" alt="image" src="https://github.com/user-attachments/assets/ba94c42c-25c1-4701-91d2-21e40d1a084a" />
 
 # RESULT :
 The FIR filter was designed using Hamming window .
