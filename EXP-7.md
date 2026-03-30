@@ -54,6 +54,7 @@ freqz(h,1);
 title('FIR using Rectangular Window');
 ```
 # OUTPUT GRAPH :
+<img width="701" height="622" alt="image" src="https://github.com/user-attachments/assets/a66d8514-2099-49db-abf8-4dfdef71475b" />
 
 # RESULT :
 The FIR filter was designed using Rectangular window.
