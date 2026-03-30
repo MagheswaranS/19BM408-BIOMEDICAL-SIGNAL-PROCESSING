@@ -51,6 +51,7 @@ freqz(h,1);
 title('FIR using Hanning Window');
 ```
 # OUTPUT GRAPH :
+<img width="694" height="622" alt="image" src="https://github.com/user-attachments/assets/9e232b30-7b58-4582-b4d9-e44be0217f1c" />
 
 # RESULT :
 The FIR filter was designed using Hanning window.
